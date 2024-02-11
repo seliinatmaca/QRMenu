@@ -9,6 +9,3 @@ It was coded using Bootstrap and JavaScript technologies.
 <h2> Screenshot </h2>
 
 ![](screen.gif)
-# QRMenu
-# QRMenu
-# QRMenu
